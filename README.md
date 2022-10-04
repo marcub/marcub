@@ -1,5 +1,5 @@
-### Hi, i'm Marcus
-## This my github profile, where I share my coding trajectory 👨‍💻
+## Hi, i'm Marcus
+### This my github profile, where I share my coding trajectory 👨‍💻
 
 🔭 Graduating in Computer Science and passionate about technology!
 🌱 I’m currently learning JAVA, focusing on back-end development
