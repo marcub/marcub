@@ -1,10 +1,10 @@
 ## Hi, i'm Marcus
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" align="center" height="350"/>
 ### This my github profile, where I share my coding trajectory 👨‍💻
 
 - 🔭 Graduating in Computer Science and passionate about technology!
 - 🌱 I’m currently learning JAVA, focusing on back-end development
 
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" align="center" height="250"/>
 <div align="center">
   <a href="https://github.com/marcub">
   <img height="180em" src="https://github-readme-stats-git-master-marcus-projects-5c71c969.vercel.app/api?username=marcub&show_icons=true&theme=dark"/>
