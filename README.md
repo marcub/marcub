@@ -3,9 +3,11 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" align="center" height="250"/>
 </div>
 <hr>
+<p>
 - 👨🏻‍💻 I'm currently working as a Full Stack Developer with PHP, JavaScript, JQuery, HTML and CSS
 - 🔭 Graduating in Computer Science and passionate about technology and how liberating it is!
 - 🌱 Learning JAVA, SpringBoot and microservices, focusing on back-end development
+</p>
 <hr>
 <div align="center">
   <a href="https://github.com/marcub">
