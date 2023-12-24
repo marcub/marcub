@@ -1,11 +1,11 @@
-## Hi, i'm Marcus
+<h1> Hi, i'm Marcus </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" align="center" height="250"/>
 </div>
-### This my github profile, where I share my coding trajectory 👨‍💻
 
-- 🔭 Graduating in Computer Science and passionate about technology!
-- 🌱 I’m currently learning JAVA, focusing on back-end development
+- 👨🏻‍💻 I'm currently working as a Full Stack Developer with PHP, JavaScript, JQuery, HTML and CSS
+- 🔭 Graduating in Computer Science and passionate about technology and how liberating it is!
+- 🌱 Learning JAVA, SpringBoot and microservices, focusing on back-end development
 
 <div align="center">
   <a href="https://github.com/marcub">
