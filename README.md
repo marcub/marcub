@@ -1,5 +1,5 @@
 ## Hi, i'm Marcus
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" align="left" height="250"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" align="center" height="350"/>
 ### This my github profile, where I share my coding trajectory 👨‍💻
 
 - 🔭 Graduating in Computer Science and passionate about technology!
