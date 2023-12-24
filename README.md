@@ -1,5 +1,5 @@
 ## Hi, i'm Marcus
-<img src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" align="center" height="250"/>
+<iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw"></a></p>
 ### This my github profile, where I share my coding trajectory 👨‍💻
 
 - 🔭 Graduating in Computer Science and passionate about technology!
