@@ -2,11 +2,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" align="center" height="250"/>
 </div>
-
+<hr>
 - 👨🏻‍💻 I'm currently working as a Full Stack Developer with PHP, JavaScript, JQuery, HTML and CSS
 - 🔭 Graduating in Computer Science and passionate about technology and how liberating it is!
 - 🌱 Learning JAVA, SpringBoot and microservices, focusing on back-end development
-
+<hr>
 <div align="center">
   <a href="https://github.com/marcub">
   <img height="180em" src="https://github-readme-stats-git-master-marcus-projects-5c71c969.vercel.app/api?username=marcub&show_icons=true&theme=dark&count_private=true"/>
@@ -15,13 +15,11 @@
   
   ##
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Marcus-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Marcus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Marcus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Marcus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Marcus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,php,js,jquery,html,css,bootstrap,py,git,github,vscode,mongodb,mysql,postman,docker" />
+  </a>
+</p>
 
   ##
   
